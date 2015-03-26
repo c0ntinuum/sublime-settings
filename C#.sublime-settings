@@ -1,0 +1,12 @@
+{
+  "auto_complete": true,
+  "auto_complete_selector": "source - comment",
+  "auto_complete_triggers": [
+    {
+      "selector": "source.cs",
+      "characters": ".<"
+    }
+  ],
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true
+}

@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Fix Mac Path",
+		"Kulture",
+		"OmniSharp",
+		"Package Control",
+		"Pretty JSON",
+		"scriptcs"
+	]
+}
